@@ -1,0 +1,134 @@
+body{
+    width: 1250px;
+    margin: 0 auto;
+    padding-bottom: 750px;
+}
+
+header{
+    
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+    box-shadow: 0 0 5px #333333;   
+}
+    
+header a h1{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+header nav{
+    margin-top: 30px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+}
+#foto1{
+position: relative;
+z-index: -1;
+top: 100px;
+left: -100px;
+}
+#tolko_tut{
+    background-color: rgb(77, 71, 71);
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: -200px;
+    color: rgb(178, 224, 224);
+    padding: 20px;
+}
+#pam1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#pam1 a {
+    text-decoration: none;
+    color: azure;
+    background: rgb(88, 88, 88);
+    padding: 25px;
+}
+
+#pam1 h5 {
+    margin: 0px;
+}
+
+#part2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    bottom: 200px;
+}
+
+#part2{
+    top: 230px;
+}
+
+#tirtir1img{
+    width: 400px;
+    position: relative;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;  
+}
+#tirtir2{
+    width: 450px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#tirtir2img{
+    width: 350px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px; 
+}
+
+#tirtir1{
+    position: relative;
+    top: 200px;
+}
+
+#tirti{
+    width: 450px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#mazelov-pron{
+    width: 100px;
+    height: 70px;
+}
+
+#c4esnok{
+    position: relative;
+    font-size:30px;
+    margin: 0px;
+    right: -100px;
+    top: 50px;
+}
+
+#goyda{
+    display: grid;
+    grid-template-columns: 5fr 8fr;
+    position: relative;
+    bottom: -500px;
+   
+}
+
+#drakeoffc-pron{
+    font-size: 36px;
+}
+
+#toptop{
+     padding-left: 50px;
+}
+
+#igkrngkfr{
+    font-size: 20px;
+}
+
